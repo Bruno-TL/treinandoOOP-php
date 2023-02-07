@@ -4,3 +4,6 @@
 <ul>Me desenvolver melhor no desenvolvimento em nos framework:</ul> 
 <li>Laravel</li> 
 <li>Magento</li>
+=================
+
+Canal usado para estudo => https://www.youtube.com/@rodrigooliveiraweb
